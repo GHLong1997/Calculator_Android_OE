@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_1dp">1dp</dimen>
+    <dimen name="textSize50sp">50sp</dimen>
+    <dimen name="paddingTop30sp">30sp</dimen>
+    <dimen name="paddingBottom30sp">30sp</dimen>
+    <dimen name="paddingRight15sp">15sp</dimen>
+    <dimen name="height195dp">195dp</dimen>
+</resources>
